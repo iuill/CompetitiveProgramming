@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice contest2", "practice contest2\practice contest2.csproj", "{68B4D65F-9BAB-410F-A6E3-96797AFFC193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice contest2Tests", "practice contest2Tests\practice contest2Tests.csproj", "{F0D3B943-6431-485C-A317-8C0178C49104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B4D65F-9BAB-410F-A6E3-96797AFFC193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B4D65F-9BAB-410F-A6E3-96797AFFC193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B4D65F-9BAB-410F-A6E3-96797AFFC193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B4D65F-9BAB-410F-A6E3-96797AFFC193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0D3B943-6431-485C-A317-8C0178C49104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D3B943-6431-485C-A317-8C0178C49104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D3B943-6431-485C-A317-8C0178C49104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D3B943-6431-485C-A317-8C0178C49104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

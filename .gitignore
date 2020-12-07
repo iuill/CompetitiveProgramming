@@ -1,0 +1,10 @@
+bin
+obj
+TestResults
+Thumbs.db
+.vs
+MSTest.TestAdapter.1.1.11
+MSTest.TestFramework.1.1.11
+*.exe
+*.dll
+*.pdb

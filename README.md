@@ -5,7 +5,7 @@
 
 ## コーディング環境
 
-Visual Studio Community 2019, C# メイン。
+C# メイン。IDE は時期によって Visual Studio 2017 だったり 2019 だったり。
 
 ユニットテストフレームワークは NUnit だったり MSTest だったり。
 

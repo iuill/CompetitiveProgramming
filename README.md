@@ -4,4 +4,5 @@
 
 ## AIZU ONLINE JUDGE
 
+アカウントはこれ
 https://onlinejudge.u-aizu.ac.jp/status/users/outoforder

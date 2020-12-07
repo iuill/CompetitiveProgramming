@@ -7,7 +7,7 @@
 
 Visual Studio Community 2019, C# メイン。
 
-テストフレームワークは NUnit だったり MSTest だったり。
+ユニットテストフレームワークは NUnit だったり MSTest だったり。
 
 
 ## AIZU ONLINE JUDGE

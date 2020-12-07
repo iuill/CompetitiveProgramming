@@ -2,6 +2,14 @@
 
 過去問解いてるだけ。
 
+
+## コーディング環境
+
+Visual Studio Community 2019, C# メイン。
+
+テストフレームワークは NUnit だったり MSTest だったり。
+
+
 ## AIZU ONLINE JUDGE
 
 アカウント
@@ -12,9 +20,3 @@ https://onlinejudge.u-aizu.ac.jp/status/users/outoforder
 
 https://onlinejudge.u-aizu.ac.jp/status/users/outoforder/submissions/1
 
-
-## コーディング環境
-
-VisualStudio2019, C# メイン。
-
-テストフレームワークは NUnit だったり MSTest だったり。

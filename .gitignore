@@ -8,3 +8,7 @@ MSTest.TestFramework.1.1.11
 *.exe
 *.dll
 *.pdb
+target
+Cargo.lock
+.vscode
+launch.json

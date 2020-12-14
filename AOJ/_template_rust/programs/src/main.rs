@@ -8,10 +8,21 @@
 // }
 
 // Vector版
+// fn main() {
+//     let mut input = String::new();
+//     std::io::stdin().read_line(&mut input).ok();
+//     let vec:Vec<_> = input.trim().split_whitespace().map(|n| n.parse::<i32>().unwrap()).collect();
+//     let (a, b) = (vec[0], vec[1]);
+//     println!("{} {}", a*b, a*2+b*2);
+// }
+
+// 読み込みをまとめてやる
 fn main() {
-    let mut input = String::new();
-    std::io::stdin().read_line(&mut input).ok();
-    let vec:Vec<_> = input.trim().split_whitespace().map(|n| n.parse::<i32>().unwrap()).collect();
-    let (a, b) = (vec[0], vec[1]);
-    println!("{} {}", a*b, a*2+b*2);
+    //use std::io;
+    use std::io::BufRead;
+    let stdin = std::io::stdin();
+    let mut lines = stdin.lock().lines();
+
+    let str = lines.nth(1).unwrap().unwrap().trim().split_whitespace().rev().collect::<Vec<_>>().join(" ");
+    println!("{}", str);
 }

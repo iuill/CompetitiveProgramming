@@ -19,4 +19,6 @@ https://onlinejudge.u-aizu.ac.jp/status/users/outoforder
 
 https://onlinejudge.u-aizu.ac.jp/status/users/outoforder/submissions/1
 
+## Paizaレーティング
 
+https://paiza.jp/challenges/glicko_rating_share/bgSn3zT36Nc5CS5I_B-q1l7o0-bWm-V0qKFNOjMUFzM?464369825
